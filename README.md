@@ -1,5 +1,5 @@
 # General_formatting_scripts
-#### Richard J. Bankoff, Ph.D.
+#### Author: Richard J. Bankoff, Ph.D.
 
 
 This repostiory contains a number of (mostly perl) scripts for formatting various kinds of bioinformatic data.
