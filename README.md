@@ -8,7 +8,7 @@ A script to convert a list of Nexus formatted genomic data files into .Nuc forma
 for running Phylogenetic Analysis by Maximum Likelihood (PAML) analyses. This script assumes one of the sequences
 in each file is named the same, and that that sequence will be used as a reference in further analyses.
 
-### Syntax: 
+### Syntax 
 ~~~~~~~~~~~~~~~~~~~~~
 perl NexttoNuc_2.pl [name of text file containing newline-delimited list of Nexus formatted files]
 ~~~~~~~~~~~~~~~~~~~~~
