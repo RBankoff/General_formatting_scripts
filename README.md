@@ -16,7 +16,7 @@ perl NexttoNuc_2.pl [name of text file containing newline-delimited list of Nexu
 .Nuc outputs will be in the working directory with the stem name of the Nexus formatted file of origin concatenated
 to a ".nuc" suffix.
 
-#### IMPORTANT NOTE
+### IMPORTANT NOTE
 On line 97, there is a hard-coded name of a taxon ("Emulti") which the script will search for in 
 order to bring to the top of the reconstituted .Nuc files. This variable should be changed to reflect the name of 
 your reference sequence.
