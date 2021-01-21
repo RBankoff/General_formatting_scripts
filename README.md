@@ -1,12 +1,10 @@
-# General_formatting_scripts
+# General formatting scripts
 #### Author: Richard J. Bankoff, Ph.D.
 
 
 This repostiory contains a number of (mostly perl) scripts for formatting various kinds of bioinformatic data.
 
-~~~~~~~~~~~~~~~~~~~~~
-NextoNuc_2.pl
-~~~~~~~~~~~~~~~~~~~~~
+## NextoNuc_2.pl
 
 A script to convert a list of Nexus formatted genomic data files into .Nuc formatted data files 
 for running Phylogenetic Analysis by Maximum Likelihood (PAML) analyses. This script assumes one of the sequences
